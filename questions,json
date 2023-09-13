@@ -1,0 +1,124 @@
+{
+    "questions": [
+      {
+        "question_id": 1,
+        "level": 500,
+        "question": "What is a patent?",
+        "options": {
+          "A": "A new technical solution to a problem",
+          "B": "A type of copyright protection",
+          "C": "A government grant for any invention",
+          "D": "A business license"
+        },
+        "correct_answer": "A) A new technical solution to a problem"
+      },
+      {
+        "question_id": 2,
+        "level": 510,
+        "question": "What is the minimum requirement for an invention to be eligible for a patent?",
+        "options": {
+          "A": "It must be useful",
+          "B": "It must be innovative",
+          "C": "It must be affordable",
+          "D": "It must be artistic"
+        },
+        "correct_answer": "B) It must be innovative"
+      },
+      {
+        "question_id": 3,
+        "level": 520,
+        "question": "Which act governs patents in India?",
+        "options": {
+          "A": "Copyright Act",
+          "B": "Patent Act, 1970",
+          "C": "Trademark Act",
+          "D": "Industrial Design Act"
+        },
+        "correct_answer": "B) Patent Act, 1970"
+      },
+      {
+        "question_id": 4,
+        "level": 530,
+        "question": "Who administers matters related to patents in India?",
+        "options": {
+          "A": "Ministry of Finance",
+          "B": "Ministry of Commerce and Industry",
+          "C": "Ministry of Education",
+          "D": "Ministry of Defense"
+        },
+        "correct_answer": "B) Ministry of Commerce and Industry"
+      },
+      {
+        "question_id": 5,
+        "level": 540,
+        "question": "What rights does a patent owner have?",
+        "options": {
+          "A": "The right to use the patented invention",
+          "B": "The right to sell the patent",
+          "C": "The right to decide who may use the patented invention",
+          "D": "The right to keep the invention secret"
+        },
+        "correct_answer": "C) The right to decide who may use the patented invention"
+      },
+      {
+        "question_id": 6,
+        "level": 550,
+        "question": "How long are patent rights protected?",
+        "options": {
+          "A": "10 years",
+          "B": "15 years",
+          "C": "20 years",
+          "D": "25 years"
+        },
+        "correct_answer": "C) 20 years"
+      },
+      {
+        "question_id": 7,
+        "level": 560,
+        "question": "Under what conditions can a patent be used for teaching and research purposes without infringement?",
+        "options": {
+          "A": "As per Section 47 of the Act",
+          "B": "With the patent owner's permission",
+          "C": "Only for non-commercial purposes",
+          "D": "Never, patents cannot be used for teaching or research"
+        },
+        "correct_answer": "A) As per Section 47 of the Act"
+      },
+      {
+        "question_id": 8,
+        "level": 570,
+        "question": "Which of the following items cannot be patented according to The Patent Act, 1970?",
+        "options": {
+          "A": "Computer programs",
+          "B": "Scientific theories",
+          "C": "Surgical procedures",
+          "D": "All of the above"
+        },
+        "correct_answer": "D) All of the above"
+      },
+      {
+        "question_id": 9,
+        "level": 580,
+        "question": "What organization governs international filing and registration of intellectual property rights (IPR)?",
+        "options": {
+          "A": "United Nations (UN)",
+          "B": "World Trade Organization (WTO)",
+          "C": "World Intellectual Property Organization (WIPO)",
+          "D": "International Patent Classification (IPC)"
+        },
+        "correct_answer": "C) World Intellectual Property Organization (WIPO)"
+      },
+      {
+        "question_id": 10,
+        "level": 590,
+        "question": "Why is a 'Prior Art Search' important before filing a patent application?",
+        "options": {
+          "A": "To determine if the invention is valuable",
+          "B": "To check if someone else has already patented a similar invention",
+          "C": "To advertise the invention to the public",
+          "D": "To determine the industrial use of the invention"
+        },
+        "correct_answer": "B) To check if someone else has already patented a similar invention"
+      }
+    ]
+  }
